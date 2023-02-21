@@ -58,4 +58,8 @@ footer {
   text-align: center;
 }
 
+/* 以下のスタイルを追加した */
 
+.card {
+  border-radius: 0;
+}
